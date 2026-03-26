@@ -59,3 +59,4 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - On top of that, it posesess the highest revenue lost to returns (**10.62%**), highest amongst all channels.
   - Affiliate's operational and behavioural return rates split is consistent with other channels, meaning the issue isn't contributed to one root cause. However, both figures sit at the top suggesting fulfillment quality and customer satisfaction issues.
   - Low revenue generation + High revenue leakage, clear candidate for budget reallocation.
+
