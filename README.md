@@ -29,7 +29,9 @@ To evaluate channel quality and accurately identify high value customer acquisit
 ![Revenue Contribution](revenue_contribution.png)
 
 
-## Revenue Contribution 
-- Over 40% of the revenue contribution derives from Organic Search (**21.97%**) and Paid Search (**19.06%**)
-- Secondary channels such as Social (**14.68%**) and Email (**13.96%**) also contribute meaningfully.
-- Referral, Affiliate and Direct channels make up smaller portions of overall revenue (< **11.5%**). 
+### - Channel Revenue Contribution                                                                                           ### - Limitations of Revenue as a Performance Metric                                                           ### - Emerging Questions 
+- Over 40% of the revenue contribution derives from Organic Search (**21.97%**) and Paid Search (**19.06%**)                 - Revenue contribution reflects volume, not necesarrily quality.                                               - Are top performing channels driving high value/loyal customers or just transactions? 
+- Secondary channels such as Social (**14.68%**) and Email (**13.96%**) also contribute meaningfully.                        - Lower contributing channels still generate a prominent portion of revenue (**~35% combined**).               - And do these channels posess holes in the transaction process leading to potential revenue loss?
+- Referral, Affiliate and Direct channels make up smaller portions of overall revenue (< **11.5%**).                         - Key factors such as: AOV, return rates (revenue lost), revenue after losses need to accounted for.           - Are lower-volume channels undervalued, potentially hurting us in the long run?
+
+
