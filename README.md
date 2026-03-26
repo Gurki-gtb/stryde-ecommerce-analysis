@@ -23,3 +23,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 - **Financial**: Revenue Contribution, Revenue Lost to Returns, Categorical Revenue Concentration 
 
 - **Operational**: Cancellation Rate, Operational Return Rate, Behavioral Return Rate
+
+# Executive Summary 
+
+![Revenue Contribution](revenue_contribution.png)
