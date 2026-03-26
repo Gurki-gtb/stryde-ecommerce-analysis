@@ -14,12 +14,12 @@ This analysis was conducted in response to a brief from senior stakeholders and 
 
 *Which marketing channels are acquiring Stryde's highest value customers, and are we investing in them proportionally?*
 
-## Northstar Metrics 
+### Northstar Metrics 
 
 To evaluate channel quality and accurately identify high value customer acquisition, the following metrics/dimensions were defined as the primary measures of performance:
 
-**Marketing Channels** - Revenue Contribution, AOV, Return Rate (Operation/Behavioral), Cancellation Rate, Revenue Lost to Returns, AVG Rating 
+- **Marketing Channels**: Revenue Contribution, AOV, Return Rate (Operation/Behavioral), Cancellation Rate, Revenue Lost to Returns, AVG Rating 
 
-**Financial** - Revenue Contribution, Revenue Lost to Returns, Categorical Revenue Concentration 
+- **Financial**: Revenue Contribution, Revenue Lost to Returns, Categorical Revenue Concentration 
 
-**Operational** - Cancellation Rate, Operational Return Rate, Behavioral Return Rate
+- **Operational**: Cancellation Rate, Operational Return Rate, Behavioral Return Rate
