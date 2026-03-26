@@ -51,8 +51,10 @@ To evaluate channel quality and accurately identify high value customer acquisit
 ### AVG Rating Excluded:
    - Average customer rating across all channels falls withing a narrow range of **3.84-4.03**. Indicating consistent customer satisfaction regardless of the acquisition channel. This metric does not surface meaningful differentation of quality between channels. Hence, it was excluded as a performance indicator.
 ### Return Rates (Behavioral + Operational):
+#### Paid Search
   - Paid Search is the second highest performing channel in terms of revenue contribution, but is also the second highest channel in terms of return rate (**8.17%**). At first glance this signals a satisfaction issue. However, it's revenue lost to returns sits at **6.01%** - below the channel average.
   - This is explained by Paid Search having the highest AOV at **$71.43**. Which allows the revenue base to absorb the leakage caused by the returns. The dollar impact of the returns is not the issue here, rather what this signals. Customers arriving through paid search are not recieving what they expected, which can have negative long term consequences affecting customer loyalty, and increasing customer churn.
+#### Affiliate
   - Affiliate sits close to the bottom for revenue contribution and has the highest return rate (**8.33**%).
   - On top of that, it posesess the highest revenue lost to returns (**10.62%**), highest amongst all channels.
   - Affiliate's operational and behavioural return rates split is consistent with other channels, meaning the issue isn't contributed to one root cause. However, both figures sit at the top suggesting fulfillment quality and customer satisfaction issues.
