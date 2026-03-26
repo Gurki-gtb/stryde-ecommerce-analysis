@@ -27,3 +27,9 @@ To evaluate channel quality and accurately identify high value customer acquisit
 # Executive Summary 
 
 ![Revenue Contribution](revenue_contribution.png)
+
+
+## Revenue Contribution 
+- Over 40% of the revenue contribution derives from Organic Search (**21.97%**) and Paid Search (**19.06%**)
+- Secondary channels such as Social (**14.68%**) and Email (**13.96%**) also contribute meaningfully.
+- Referral, Affiliate and Direct channels make up smaller portions of overall revenue (< **11.5%**). 
