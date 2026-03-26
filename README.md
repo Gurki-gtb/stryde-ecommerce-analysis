@@ -43,3 +43,4 @@ To evaluate channel quality and accurately identify high value customer acquisit
    - Are top performing channels driving high value/loyal customers or just transactions?
    - And do these channels posess holes in the transaction process leading to potential revenue loss?
    - Are lower-volume channels undervalued, potentially hurting us in the long run?
+
