@@ -1,1 +1,1 @@
-# stryde-ecommerce-analysis
+![Stryde Logo](stryde_logo.png)
