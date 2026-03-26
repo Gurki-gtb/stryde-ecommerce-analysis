@@ -44,3 +44,6 @@ To evaluate channel quality and accurately identify high value customer acquisit
    - And do these channels posess holes in the transaction process leading to potential revenue loss?
    - Are lower-volume channels undervalued, potentially hurting us in the long run?
 
+# Channel Performance Deep Dive 
+
+![Heatmap](performance_scorecard.png)
