@@ -47,3 +47,8 @@ To evaluate channel quality and accurately identify high value customer acquisit
 # Channel Performance Deep Dive 
 
 ![Heatmap](performance_scorecard.png)
+
+1. AVG Rating excluded
+    Average customer rating across all channels falls withing a narrow range of **3.84-4.03**. Indicating consistent customer satisfaction regardless of the acquisition channel. This metric does not surface meaningful differentation of quality between channels. Hence, it was excluded as a performance indicator.
+  
+- 
