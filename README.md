@@ -119,9 +119,63 @@ To evaluate channel quality and accurately identify high value customer acquisit
 - However, certain channels in the lower revenue contribution range can potentially provide a lot of value if handled correctly.
 - But, the lower we go down the ladder the more weaknesses the sources show. Low AOV's, high return rates, high amounts of revenue leakage, etc.
 
-### Organic Search - Underinvested 
+### Tier 1 - Underinvested 
+
+#### Organic Search
 - Stryde's strongest channel operates at a near zero acquisition cost, yet generates the highest revenue contribution. Investment here is not about directly paying for traffic. Rather, through content and SEO services.
   ## Marketing:
     - Increase investment towards SEO services and producing more and higher content to improve search rankings.
     - Focus on building brand authority through content.
     - Organic growth will pay off through driving website traffic, and customer loyalty.
+
+#### Direct 
+- This is the sleeper channel of the bunch. Customers acquired through Direct marketing have little to no spend attached to them and don't possess the same severity of issues like the other channels that contribue low revenue contribution.
+  ## Marketing:
+    - Direct cannot be invested in the traditional sense. Growth here will be achieved through building the brand across every other touchpoint.
+    - Focus on improving post purchase experience. Customers who have a good experience with their first ot first few purchases through other channels are more likely to come directly to the site down the line.
+    - Invest in brand identity, awareness, and building a community around Stryde to build reputation and plant into the mind of consumers.
+    - Implementing these changes could help increase the customers who come directly to the site, and overtime lower our acquisition costs.
+
+---
+
+### Tier 2 - Overinvested  
+
+#### Paid Search
+  - This could actually come as a surprisde to many. To be clear, Paid Search is not a bad marketing source it's actually the opposite. However, in comparison to Organic Search (which has almost no acquisition cost) it lags in performance and costs significantly more to maintain.
+    ## Marketing, Finance
+      - If a channel which directly costs almost nothing is outperforming it, it's highly likely if the money invested into this channel was reallocated to Organic it would perform even better.
+      - Continue investing in Paid Search, but we need to reduce that investment. Redirect this investment to Organic Search.
+    ## Operations
+      - The strength of Paid Search's AOV does a lot of heavy lifting in making up for it's return rates. Investigate the root cause for the product returns, try to identify if it's due to packing issues, supplier defect or a completely different operational issue.
+
+---
+
+### Tier 3 - Monitor & Improve 
+
+#### Email 
+- Email generates strong order volume but is held back by it's low AOV.
+
+  ## Marketing, Finance 
+  - Introduce minimum spending thresholds to unlockl free shipping - incentivising customers to spend more.
+  - Start bundling complementary products to naturally lift order value.
+  - Introduce volume discounts to increase the quantity of item's purchased.
+
+#### Social 
+
+  ## Operations 
+  - Implement a pre shipment quality check to reduce the operation return rate.
+  - Introduct a post cancellation response prompt with customer incentive to to help capture cancellation reasons. Helps address a current data limitation.
+
+---
+
+### Tier 4 - Deprioritise 
+
+#### Referral & Associate 
+
+  ## Marketing & Finance 
+  - Highest return rates, highest revenue leakages, and no compensating strengths to soften the blow of these weaknesses.
+  - Budget currently allocated to Affiliate and Referral should be reallocated to higher performing channels — specifically Organic Search and Email where the return on investment stronger.
+  
+
+    
+    
