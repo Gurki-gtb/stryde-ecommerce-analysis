@@ -168,7 +168,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 ---
 
-#Tier 4 - Deprioritise 
+# Tier 4 - Deprioritise 
 
 ### Referral & Associate 
 
