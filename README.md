@@ -45,6 +45,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
    - Are lower-volume channels undervalued, potentially hurting us in the long run?
 
 # Channel Performance Deep Dive 
+## Return Rates are the primary differentiator between high and low quality channels.
 
 ![Heatmap](performance_scorecard.png) ![Return Rate Drivers](return_rate_drivers.png)
 
@@ -69,4 +70,5 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - Social, Email, Organic Search, and Paid Search have the highest cancellation rates. However, the range is quite tight amongst all channels (**7.90%-9.80%**) with Social at the top.
   - The root cause of the cancellations cannot be fully determined from the available data alone.
   - Post-cancellation feedback would be needed to identify the driver of these cancellations and for a reduction strategy. 
-# Revenue Leakage -- Bottom-Line Impact
+# Revenue Leakage, Bottom-Line Impact
+
