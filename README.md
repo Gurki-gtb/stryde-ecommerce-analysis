@@ -69,3 +69,4 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - Social, Email, Organic Search, and Paid Search have the highest cancellation rates. However, the range is quite tight amongst all channels (**7.90%-9.80%**) with Social at the top.
   - The root cause of the cancellations cannot be fully determined from the available data alone.
   - Post-cancellation feedback would be needed to identify the driver of these cancellations and for a reduction strategy. 
+# Revenue Leakage -- Bottom-Line Impact
