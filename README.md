@@ -64,4 +64,4 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - The pinpoint of this cannot be derived from the data alone, and the rate could be high due to low revenue bases to begin with. The absence of clear return reasons may reflect data limitations. Customer's not providing feedback, making it difficult to isolate a root cause.
   - Regardless, the combination of low revenue contribution and elevated leakage suggest both channels are less effcient than their return metrics suggest. Improved return reason capture would help us determine wether this is due to product satisfaction or fulfillment issues.
 ### Social 
-  - Social has the lowest behavioural return rate (**2.32%**) but it's operational return rate is an issue (**4.02$, the second highest**).  
+  - Social has the lowest behavioural return rate (**2.32%**) but it's operational return rate is an issue (**4.02%, the second highest**).  
