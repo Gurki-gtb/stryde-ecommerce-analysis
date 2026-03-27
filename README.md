@@ -48,7 +48,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 ![Heatmap](performance_scorecard.png) ![Return Rate Drivers](return_rate_drivers.png)
 
-### AVG Rating Excluded:
+### A note on AVG Rating:
    - Average customer rating across all channels falls withing a narrow range of **3.84-4.03**. Indicating consistent customer satisfaction regardless of the acquisition channel. This metric does not surface meaningful differentation of quality between channels. Hence, it was excluded as a performance indicator.
 ### Return Rates (Behavioral + Operational):
 #### Paid Search
@@ -59,4 +59,9 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - On top of that, it posesess the highest revenue lost to returns (**10.62%**), highest amongst all channels.
   - Affiliate's operational and behavioural return rates split is consistent with other channels, meaning the issue isn't contributed to one root cause. However, both figures sit at the top suggesting fulfillment quality and customer satisfaction issues.
   - Low revenue generation + High revenue leakage, clear candidate for budget reallocation.
-
+### Referral, Direct   
+  - Referral and Direct both pose an interestign situation. Operational and behavioural return rates of both channels comfortably sit in the green. However, both posess a elevated revenue lost to returns sitting at **9.03%** and **7.63%**.
+  - The pinpoint of this cannot be derived from the data alone, and the rate could be high due to low revenue bases to begin with. The absence of clear return reasons may reflect data limitations. Customer's not providing feedback, making it difficult to isolate a root cause.
+  - Regardless, the combination of low revenue contribution and elevated leakage suggest both channels are less effcient than their return metrics suggest. Improved return reason capture would help us determine wether this is due to product satisfaction or fulfillment issues.
+### Social 
+  - Social has the lowest behavioural return rate (**2.32%**) but it's operational return rate is an issue (**4.02$, the second highest**).  
