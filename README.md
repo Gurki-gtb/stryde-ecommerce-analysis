@@ -78,5 +78,9 @@ To evaluate channel quality and accurately identify high value customer acquisit
 - Lower contributing channels exhibit signficantly higher leakage rates; Affiliate (**$11.6k**), Direct (**$7.5k**), Referral (**$11.3k**)(**Total: $30.4k**)
 - Mid tier channels like Social and Email show moderate leakage (**Total: $20.5k**). Indicating a balance between value and risk.
 
-- Smaller channels not only lose the most in terms of absolute revenue, they also generate the least. Signaling to low efficiency. 
+- Smaller channels are underperforming in both dimensions, they generate the least amount of revenue and lose the largest proportion of it. Making it clear there are inefficienes in these acquisition sources.
 
+  # AOV Disparities Limiting Revenue Potential
+  ## Stronger channels are not performing as strong as they could due to AOV limitation, leaving revenue on the table.
+
+  ![AOV](aov.png)
