@@ -142,10 +142,10 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 #### Paid Search
   - This could actually come as a surprisde to many. To be clear, Paid Search is not a bad marketing source it's actually the opposite. However, in comparison to Organic Search (which has almost no acquisition cost) it lags in performance and costs significantly more to maintain.
-    ## Marketing, Finance
+    ## Marketing, Finance:
       - If a channel which directly costs almost nothing is outperforming it, it's highly likely if the money invested into this channel was reallocated to Organic it would perform even better.
       - Continue investing in Paid Search, but we need to reduce that investment. Redirect this investment to Organic Search.
-    ## Operations
+    ## Operations:
       - The strength of Paid Search's AOV does a lot of heavy lifting in making up for it's return rates. Investigate the root cause for the product returns, try to identify if it's due to packing issues, supplier defect or a completely different operational issue.
 
 ---
@@ -155,14 +155,14 @@ To evaluate channel quality and accurately identify high value customer acquisit
 #### Email 
 - Email generates strong order volume but is held back by it's low AOV.
 
-  ## Marketing, Finance 
+  ## Marketing, Finance:
   - Introduce minimum spending thresholds to unlockl free shipping - incentivising customers to spend more.
   - Start bundling complementary products to naturally lift order value.
   - Introduce volume discounts to increase the quantity of item's purchased.
 
 #### Social 
 
-  ## Operations 
+  ## Operations:
   - Implement a pre shipment quality check to reduce the operation return rate.
   - Introduct a post cancellation response prompt with customer incentive to to help capture cancellation reasons. Helps address a current data limitation.
 
@@ -172,7 +172,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 #### Referral & Associate 
 
-  ## Marketing & Finance 
+  ## Marketing & Finance:
   - Highest return rates, highest revenue leakages, and no compensating strengths to soften the blow of these weaknesses.
   - Budget currently allocated to Affiliate and Referral should be reallocated to higher performing channels — specifically Organic Search and Email where the return on investment stronger.
   
