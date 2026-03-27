@@ -119,7 +119,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 - However, certain channels in the lower revenue contribution range can potentially provide a lot of value if handled correctly.
 - But, the lower we go down the ladder the more weaknesses the sources show. Low AOV's, high return rates, high amounts of revenue leakage, etc.
 
-#### Tier 1 - Underinvested 
+# Tier 1 - Underinvested 
 
 ### Organic Search
 - Stryde's strongest channel operates at a near zero acquisition cost, yet generates the highest revenue contribution. Investment here is not about directly paying for traffic. Rather, through content and SEO services.
@@ -138,7 +138,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 ---
 
-#### Tier 2 - Overinvested  
+# Tier 2 - Overinvested  
 
 ### Paid Search
   - This could actually come as a surprisde to many. To be clear, Paid Search is not a bad marketing source it's actually the opposite. However, in comparison to Organic Search (which has almost no acquisition cost) it lags in performance and costs significantly more to maintain.
@@ -150,7 +150,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 ---
 
-#### Tier 3 - Monitor & Improve 
+# Tier 3 - Monitor & Improve 
 
 ### Email 
 - Email generates strong order volume but is held back by it's low AOV.
@@ -168,7 +168,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 ---
 
-#### Tier 4 - Deprioritise 
+#Tier 4 - Deprioritise 
 
 ### Referral & Associate 
 
