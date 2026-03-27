@@ -81,6 +81,47 @@ To evaluate channel quality and accurately identify high value customer acquisit
 - Smaller channels are underperforming in both dimensions, they generate the least amount of revenue and lose the largest proportion of it. Making it clear there are inefficienes in these acquisition sources.
 
   # AOV Disparities Limiting Revenue Potential
-  ## Stronger channels are not performing as strong as they could due to AOV limitation, leaving revenue on the table.
+  ## Stronger channels are not performing as strongly as they could due to AOV hindrance, leaving revenue on the table.
 
   ![AOV](aov.png)
+
+  - Almost every channel meets the average AOV (**$65.93**) other than Email (**$63.41**) and Referral (**$61.61**).
+  - Inital thoughts may be that Referral's AOV is lower due to the discount codes/referral links. However, it has one of the lowest coupon/discount applied rates, suggesting customers acquired through Referral simply may not be spending.
+  - Email is where the real anomaly occurs. It's mid tier counter part Social basically meets the average, while Email is lagging behind by **$2.39**. Which may not seem like much, but at the revenue contribution Email brings, this could be the difference of thousands of dollars.
+  - AOV is where paid search is able to make up for it's revenue lost to returns. Sitting at the top of all channels and **$5.50** above the average this is where the Paid Search channel shines, and proves that a strong AOV could make up for other lagging areas.
+  - However, the lagging areas for Affiliate, Direct, and Referral are too large and their AOV isn't strong enough to make up for it.
+
+ # New Product Categories Catching Up 
+ ## Stryde's expansion is showing early signs of growth, and with time may be on par with Fitness and Audio.
+
+ ![Product Concentration](category_concentration.png)
+
+ - The fitness and product categories make up a little over half of the revenue generated (**51.7%**).
+ - Home & Kitchen, Electronics, and Apparel make up for close to **40%** of the revenue generated showing strong signs they may be on par with Fitness and Audio given time.
+ - Lower ticket categories like Beauty, Books/Media, and Office Supplies are severly lagging behind making up a mere **8%** of total revenue.
+
+# Are We Investing Proportinally?
+## Given the evidence across multiple performance dimensions allows us to roughly categorize each channel into four strategic quadrants.
+
+![Scatter Plot](scatter_plot.png)
+
+- The evidence across the board shows Organic Search is a very strong channel with no prominent red flags, putting it into a category of it's own.
+- Paid search has a lot of potential, but has issues that cannot be ignored. It's AOV makes up for that issue, but if it's AOV were to drop it could pose problems that significantly decrease the quality of this channel.
+- Affiliate falls into depriortise due to it's weak performance across multiple metrics. It doesn't possess any redeeming qualities that can make up for it's lack of performance hence, why it falls into this quadrant.
+- Direct has some complications which need to be addressed, but if dealt with correctly could become a high quality channel which is currently being overlooked.
+- Email, Social, and Referral all fall into a mix of quadrants which require more nuance to fully disect and assign.
+
+# Recommendations 
+
+## Overall:
+- The marketing channels acquiring the highest value customers are; Organic Search, Paid Search, Social and Email.
+- If we zoom out for a moment, the overall trend shows that the lower we get in revenue contribution the less valuable the customers being obtained are.
+- However, certain channels in the lower revenue contribution range can potentially provide a lot of value if handled correctly.
+- But, the lower we go down the ladder the more weaknesses the sources show. Low AOV's, high return rates, high amounts of revenue leakage, etc.
+
+### Organic Search - Underinvested 
+- Stryde's strongest channel operates at a near zero acquisition cost, yet generates the highest revenue contribution. Investment here is not about directly paying for traffic. Rather, through content and SEO services.
+  ## Marketing:
+    - Increase investment towards SEO services and producing more and higher content to improve search rankings.
+    - Focus on building brand authority through content.
+    - Organic growth will pay off through driving website traffic, and customer loyalty.
