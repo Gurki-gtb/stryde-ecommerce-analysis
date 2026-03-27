@@ -59,9 +59,13 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - On top of that, it posesess the highest revenue lost to returns (**10.62%**), highest amongst all channels.
   - Affiliate's operational and behavioural return rates split is consistent with other channels, meaning the issue isn't contributed to one root cause. However, both figures sit at the top suggesting fulfillment quality and customer satisfaction issues.
   - Low revenue generation + High revenue leakage, clear candidate for budget reallocation.
-### Referral, Direct   
+#### Referral, Direct   
   - Referral and Direct both pose an interestign situation. Operational and behavioural return rates of both channels comfortably sit in the green. However, both posess a elevated revenue lost to returns sitting at **9.03%** and **7.63%**.
   - The pinpoint of this cannot be derived from the data alone, and the rate could be high due to low revenue bases to begin with. The absence of clear return reasons may reflect data limitations. Customer's not providing feedback, making it difficult to isolate a root cause.
   - Regardless, the combination of low revenue contribution and elevated leakage suggest both channels are less effcient than their return metrics suggest. Improved return reason capture would help us determine wether this is due to product satisfaction or fulfillment issues.
-### Social 
-  - Social has the lowest behavioural return rate (**2.32%**) but it's operational return rate is an issue (**4.02%, the second highest**).  
+#### Social 
+  - Social has the lowest behavioural return rate (**2.32%**) but it's operational return rate is an issue (**4.02%, the second highest**). Customers acquired through this channel are satisfied with what they recieve, but there is fulfillment issues which need to be evaluated.
+### Cancellation Rates:  
+  - Social, Email, Organic Search, and Paid Search have the highest cancellation rates. However, the range is quite tight amongst all channels (**7.90%-9.80%**) with Social at the top.
+  - The root cause of the cancellations cannot be fully determined from the available data alone.
+  - Post-cancellation feedback would be needed to identify the driver of these cancellations and for a reduction strategy. 
