@@ -6,7 +6,7 @@
 
 Stryde is a US-based e-commerce retailer that specializes in Fitness and Lifestyle prdocucts. Its products fall into eight different categories; Fitness, Audio, Electronics, Home/Kitchen, Apparel, Beauty/Personal Care, Books/Media, and Office Supplies. Stryde was founded in 2024 and was built with a focus on performance-driven consumers, and in recent years has expanded its catalouge to serve an extensive realm of lifestyle products while maintaining its identity as a premium fitness brand. 
 
-As of 2026, Stryde has processed over 10,000 transactions and has generated approximately $1.2m in sales revenue. The recent expansion has brought up many questions regarding the performance of it's marketing channels. 
+As of 2026, Stryde has processed over 10,000 transactions and has generated approximately $1.2m in sales revenue. The recent expansion has brought up many questions regarding the performance of its marketing channels. 
 
 This analysis was conducted in response to a brief from senior stakeholders and presents findings and recommendations across three teams - Marketing, Finance, and Operations. The core question driving the analysis is whether Stryde's current marketing investment reflects the quality of customers each channel acquries, and where budget reallocation could drive stronger long-term returns. Additional findings and recommendations relevant to the Finance and Operations teams where attention is warranted are also included. 
 
@@ -53,7 +53,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
    - Average customer rating across all channels falls withing a narrow range of **3.84-4.03**. Indicating consistent customer satisfaction regardless of the acquisition channel. This metric does not surface meaningful differentiation of quality between channels. Hence, it was excluded as a performance indicator.
 ### Return Rates (Behavioral + Operational):
 #### Paid Search
-  - Paid Search is the second highest performing channel in terms of revenue contribution, but is also the second highest channel in terms of return rate (**8.17%**). At first glance this signals a satisfaction issue. However, it's revenue lost to returns sits at **6.01%** - below the channel average.
+  - Paid Search is the second highest performing channel in terms of revenue contribution, but is also the second highest channel in terms of return rate (**8.17%**). At first glance this signals a satisfaction issue. However, its revenue lost to returns sits at **6.01%** - below the channel average.
   - This is explained by Paid Search having the highest AOV at **$71.43**. Which allows the revenue base to absorb the leakage caused by the returns. The dollar impact of the returns is not the issue here, rather what this signals. Customers arriving through paid search are not receiving what they expected, which can have negative long-term consequences affecting customer loyalty, and increasing customer churn.
 #### Affiliate
   - Affiliate sits close to the bottom for revenue contribution and has the highest return rate (**8.33**%).
@@ -87,8 +87,8 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
   - Almost every channel meets the average AOV (**$65.93**) other than Email (**$63.41**) and Referral (**$61.61**).
   - Inital thoughts may be that Referral's AOV is lower due to the discount codes/referral links. However, it has one of the lowest coupon/discount applied rates, suggesting customers acquired through Referral simply may not be spending.
-  - Email is where the real anomaly occurs. It's mid tier counter part Social basically meets the average, while Email is lagging behind by **$2.39**. Which may not seem like much, but at the revenue contribution Email brings, this could be the difference of thousands of dollars.
-  - AOV is where paid search is able to make up for it's revenue lost to returns. Sitting at the top of all channels and **$5.50** above the average this is where the Paid Search channel shines, and proves that a strong AOV could make up for other lagging areas.
+  - Email is where the real anomaly occurs. its mid tier counter part Social basically meets the average, while Email is lagging behind by **$2.39**. Which may not seem like much, but at the revenue contribution Email brings, this could be the difference of thousands of dollars.
+  - AOV is where paid search is able to make up for its revenue lost to returns. Sitting at the top of all channels and **$5.50** above the average this is where the Paid Search channel shines, and proves that a strong AOV could make up for other lagging areas.
   - However, the lagging areas for Affiliate, Direct, and Referral are too large and their AOV isn't strong enough to make up for it.
 
  # New Product Categories Catching Up 
@@ -105,9 +105,9 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 ![Scatter Plot](scatter_plot.png)
 
-- The evidence across the board shows Organic Search is a very strong channel with no prominent red flags, putting it into a category of it's own.
-- Paid search has a lot of potential, but has issues that cannot be ignored. It's AOV makes up for that issue, but if it's AOV were to drop it could pose problems that significantly decrease the quality of this channel.
-- Affiliate falls into depriortise due to it's weak performance across multiple metrics. It doesn't possess any redeeming qualities that can make up for it's lack of performance hence, why it falls into this quadrant.
+- The evidence across the board shows Organic Search is a very strong channel with no prominent red flags, putting it into a category of its own.
+- Paid search has a lot of potential, but has issues that cannot be ignored. its AOV makes up for that issue, but if its AOV were to drop it could pose problems that significantly decrease the quality of this channel.
+- Affiliate falls into depriortise due to its weak performance across multiple metrics. It doesn't possess any redeeming qualities that can make up for its lack of performance hence, why it falls into this quadrant.
 - Direct has some complications which need to be addressed, but if dealt with correctly could become a high quality channel which is currently being overlooked.
 - Email, Social, and Referral all fall into a mix of quadrants which require more nuance to fully disect and assign.
 
@@ -141,19 +141,19 @@ To evaluate channel quality and accurately identify high value customer acquisit
 # Tier 2 - Overinvested  
 
 ### Paid Search
-  - This could actually come as a surprisde to many. To be clear, Paid Search is not a bad marketing source it's actually the opposite. However, in comparison to Organic Search (which has almost no acquisition cost) it lags in performance and costs significantly more to maintain.
+  - This could actually come as a surprisde to many. To be clear, Paid Search is not a bad marketing source its actually the opposite. However, in comparison to Organic Search (which has almost no acquisition cost) it lags in performance and costs significantly more to maintain.
     ## Marketing, Finance:
-      - If a channel which directly costs almost nothing is outperforming it, it's highly likely if the money invested into this channel was reallocated to Organic it would perform even better.
+      - If a channel which directly costs almost nothing is outperforming it, its highly likely if the money invested into this channel was reallocated to Organic it would perform even better.
       - Continue investing in Paid Search, but we need to reduce that investment. Redirect this investment to Organic Search.
     ## Operations:
-      - The strength of Paid Search's AOV does a lot of heavy lifting in making up for it's return rates. Investigate the root cause for the product returns, try to identify if it's due to packing issues, supplier defect or a completely different operational issue.
+      - The strength of Paid Search's AOV does a lot of heavy lifting in making up for its return rates. Investigate the root cause for the product returns, try to identify if its due to packing issues, supplier defect or a completely different operational issue.
 
 ---
 
 # Tier 3 - Monitor & Improve 
 
 ### Email 
-- Email generates strong order volume but is held back by it's low AOV.
+- Email generates strong order volume but is held back by its low AOV.
 
   ## Marketing, Finance:
   - Introduce minimum spending thresholds to unlockl free shipping - incentivising customers to spend more.
