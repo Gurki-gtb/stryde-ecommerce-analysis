@@ -26,7 +26,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 # Executive Summary 
 
-![Revenue Contribution](revenue_contribution.png)
+<img width="2108" height="1170" alt="image" src="https://github.com/user-attachments/assets/f602a262-5f86-443d-bb93-3d7457f599bc" />
 
 
 ### - Channel Revenue Contribution                                                                                          
