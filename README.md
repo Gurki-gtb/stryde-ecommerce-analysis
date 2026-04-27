@@ -26,7 +26,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 
 # Executive Summary 
 
-<img width="2108" height="1170" alt="image" src="https://github.com/user-attachments/assets/f602a262-5f86-443d-bb93-3d7457f599bc" />
+<img width="2094" height="1164" alt="image" src="https://github.com/user-attachments/assets/63f0c84b-806e-41f6-b36b-f352cad66cfb" />
 
 
 ### - Channel Revenue Contribution                                                                                          
@@ -47,7 +47,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
 # Channel Performance Deep Dive 
 ## Return Rates are the primary differentiator between high and low quality channels.
 
-![Heatmap](performance_scorecard.png) ![Return Rate Drivers](return_rate_drivers.png)
+<img width="1778" height="1164" alt="image" src="https://github.com/user-attachments/assets/3935bef4-2258-4f7b-8983-99eb9988ae74" />
 
 ### A note on AVG Rating:
    - Average customer rating across all channels falls withing a narrow range of **3.84-4.03**. Indicating consistent customer satisfaction regardless of the acquisition channel. This metric does not surface meaningful differentiation of quality between channels. Hence, it was excluded as a performance indicator.
