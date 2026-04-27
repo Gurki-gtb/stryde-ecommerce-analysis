@@ -84,7 +84,7 @@ To evaluate channel quality and accurately identify high value customer acquisit
   # AOV Disparities Limiting Revenue Potential
   ## Stronger channels are not performing as strongly as they could due to AOV hindrance, leaving revenue on the table.
 
-  ![AOV](aov.png)
+<img width="2144" height="1160" alt="image" src="https://github.com/user-attachments/assets/fc810534-7c24-43e7-8ebc-73ec6aa90145" />
 
   - Almost every channel meets the average AOV (**$65.93**) other than Email (**$63.41**) and Referral (**$61.61**).
   - Inital thoughts may be that Referral's AOV is lower due to the discount codes/referral links. However, it has one of the lowest coupon/discount applied rates, suggesting customers acquired through Referral simply may not be spending.
