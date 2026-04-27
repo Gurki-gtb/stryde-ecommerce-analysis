@@ -72,7 +72,8 @@ To evaluate channel quality and accurately identify high value customer acquisit
   - Post-cancellation feedback would be needed to identify the driver of these cancellations and for a reduction strategy. 
 # Revenue Leakage, Bottom-Line Impact
 ## Return rates highlight behavioral and operational inefficiences. However, they do not fully capture the financial impact of these issues.
-![Revenue Leakage](revenue_leakage.png)
+
+<img width="2144" height="1160" alt="image" src="https://github.com/user-attachments/assets/e202197c-5bc3-45f6-9173-7d7b344ceaf9" />
 
 - High volume channels such as Organic Search (**$12.8k**) and Paid Search (**$12.6k**)(**Total: $25.4K**)contribute the largest revenue losses, but this is primarily due to scale rather than inefficiency, hence why their revenue lost to returns is low.
 - Lower contributing channels exhibit signficantly higher leakage rates; Affiliate (**$11.6k**), Direct (**$7.5k**), Referral (**$11.3k**)(**Total: $30.4k**)
